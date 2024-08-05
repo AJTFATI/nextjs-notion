@@ -1,8 +1,8 @@
-import { siteConfig } from './lib/site-config'
+import { siteConfig } from './https://transitive-bs.notion.site/Next-js-Notion-Starter-Kit-Template-7875426197cf461698809def95960ebf'
 
-export default siteConfig({
+export default siteConfig({https://praecellens.org
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: '823e56daf7cd4e84875a1314689130b5',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
