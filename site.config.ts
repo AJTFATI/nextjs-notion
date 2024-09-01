@@ -2,7 +2,7 @@ import { siteConfig } from './https://transitive-bs.notion.site/Next-js-Notion-S
 
 export default siteConfig({https://praecellens.org
   // the site's root Notion page (required)
-  rootNotionPageId: '823e56daf7cd4e84875a1314689130b5',
+  rootNotionPageId: 'd68cf42996674c649f41e55f8d0c957a',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
